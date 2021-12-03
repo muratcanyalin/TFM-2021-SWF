@@ -3,10 +3,10 @@ transformice latest version swf archives
 
 * You can find all the new versions of Transformice here.
 
-Latest Version 1.672
+Latest Version 1.673
 
 Transformice SWF
 
-SWF 1.672
+SWF 1.673
 
 TFM SWF
